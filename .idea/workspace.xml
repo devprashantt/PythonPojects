@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56548f6b-c488-4eb8-a961-0c888ebf6ea5" name="Changes" comment="Day 2">
-      <change afterPath="$PROJECT_DIR$/Classwork/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/9.py" afterDir="false" />
+    <list default="true" id="56548f6b-c488-4eb8-a961-0c888ebf6ea5" name="Changes" comment="Day 3">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PongPong" beforeDir="false" afterPath="$PROJECT_DIR$/PongPong" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnakeGame" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame" afterDir="false" />
@@ -46,11 +49,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classwork/9.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classwork/14.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager">
-    <configuration name="9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonPojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork/9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork/14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651726997523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 3">
+      <created>1651779234655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651779234655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +122,7 @@
       <path value="$PROJECT_DIR$/TurtleRace" />
     </ignored-roots>
     <MESSAGE value="Day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2" />
+    <MESSAGE value="Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3" />
   </component>
 </project>
