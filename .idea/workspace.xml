@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56548f6b-c488-4eb8-a961-0c888ebf6ea5" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PongPong" beforeDir="false" afterPath="$PROJECT_DIR$/PongPong" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnakeGame" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame" afterDir="false" />
@@ -50,11 +54,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classwork/14.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classwork/23.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prashant\OneDrive\Desktop\Coding\PythonProjects\Classwork" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="23" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonPojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork/14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651779234655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 3">
+      <created>1652166272135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652166272135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
