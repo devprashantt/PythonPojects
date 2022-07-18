@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56548f6b-c488-4eb8-a961-0c888ebf6ea5" name="Changes" comment="Day 10">
+    <list default="true" id="56548f6b-c488-4eb8-a961-0c888ebf6ea5" name="Changes" comment="Final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordManager/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordManager/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PongPong" beforeDir="false" afterPath="$PROJECT_DIR$/PongPong" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnakeGame" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeGame" afterDir="false" />
     </list>
@@ -43,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classwork/27.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PasswordManager/main.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +54,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="27" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonPojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Prashant\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classwork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PasswordManager" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork/27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PasswordManager/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653998239016</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final">
+      <created>1655185347201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655185347201</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +152,7 @@
     <MESSAGE value="Day 2" />
     <MESSAGE value="Day 3" />
     <MESSAGE value="Day 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 10" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
 </project>
